@@ -1,0 +1,1 @@
+print("this is data collector module hydrometrics ai")
